@@ -17862,7 +17862,7 @@ fieldset:disabled .btn {
 }
 
 :root {
-    --primary-color: #ff9e00;
+    --primary-color: #566b68;
     --secondary-color: #ff8500;
     --font-color: #58595b;
     --bg-color: #fff;
@@ -17884,7 +17884,7 @@ fieldset:disabled .btn {
 }
 
 [data-theme="dark"] {
-    --primary-color: #ff9e00;
+    --primary-color: #566b68;
     --secondary-color: #ff8500;
     --font-color: #c2c2c2;
     --bg-color: #131212;
@@ -20356,16 +20356,16 @@ div#small-dialog1 iframe {
     font-weight: 600;
 }
 @media (max-width:640px) {
-	.w3l-content-8 ul {
-		display: grid;
-		grid-template-columns: 1fr;
-		grid-gap: 20px;
-	}
-	.w3l-content-8 li.icon-list-item-gd {
-		display: grid;
-		grid-template-columns: 1fr 10fr;
-		grid-gap: 10px;
-	}
+    .w3l-content-8 ul {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+    }
+    .w3l-content-8 li.icon-list-item-gd {
+        display: grid;
+        grid-template-columns: 1fr 10fr;
+        grid-gap: 10px;
+    }
 }
 /*--/services--*/
 .grids-3-w3l {
