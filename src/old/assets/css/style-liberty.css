@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Terabella';
+  src: url('../fonts/BelaRegular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.envero-font {
+  font-family: 'Terabella', cursive;
+}
 @charset "UTF-8";
 
 /*!
